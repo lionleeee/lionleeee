@@ -15,7 +15,6 @@
 ####  :clipboard: Once I've Used 
   
  <br/>
- #### Platforms & Languages
  <br>
 
 <br/>
