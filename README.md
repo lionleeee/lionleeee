@@ -1,7 +1,10 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=lionleeee&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-    
+      
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionleeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lionleeee&langs_count=10&layout=compact&theme=radical)
+
 ####  :wave: Welcome my profile !
 
 
@@ -12,6 +15,11 @@
 ####  :clipboard: Once I've Used 
   
  <br/>
+ #### Platforms & Languages
+ <br>
+
+<br/>
+ 
   
 <img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -33,11 +41,8 @@
    <br/>
  
 #### :pencil2: Study log
- 
+ [TIL/Blog](https://lionleeee.github.io/TIL/)
   <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionleeee&show_icons=true&theme=radical)
-
 
 
 </div>
