@@ -15,11 +15,10 @@
 
   
 <br>
-<img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=lionleeee&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionleeee&show_icons=true&theme=radical)
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=lionleeee&langs_count=10&layout=compact&theme=radical](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=lionleeee&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lionleeee&langs_count=10&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee97hun3)](https://solved.ac/lee97hun3/)
 
