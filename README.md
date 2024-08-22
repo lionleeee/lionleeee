@@ -8,7 +8,7 @@
 ## 안녕하세요 이정훈입니다. 
 ### 🍀 누군가에게 선한 영향력을 전달할 수 있는 개발자를 꿈꾸고 있어요
 - 🎯가치관 : 기술적 겸손함을 가지고 더 나은 가치를 만들기 위해 노력하고 있어요
-- 🌱학습분야 : React, Next, Angular, Nest, C#
+- 🌱학습분야 : React, Next, Angular
   <!--
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=42&duration=3000&pause=1000&color=840FFFA1&center=true&width=700&height=100&lines=Hi%2C+I'm+JeongHun)](https://git.io/typing-svg)
   -->
