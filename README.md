@@ -6,8 +6,8 @@
 
 
 ## 안녕하세요 이정훈입니다. 
-### 🍀 누군가에게 선한 영향력을 전달할 수 있는 프론트엔드 개발자
-- 🎯가치관 : 기술적 겸손함을 가지고 더 나은 가치를 만들기 위해 노력하고 있어요
+### 🍀 바쁜 일상 속 잠깐의 여유를 선물하고 더 나아가 가치 있는 경험을 제공하는 서비스를 만드는 것을 목표로 하고 있습니다.
+
 - 🌱학습분야 : React, Next, Angular
   <!--
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=42&duration=3000&pause=1000&color=840FFFA1&center=true&width=700&height=100&lines=Hi%2C+I'm+JeongHun)](https://git.io/typing-svg)
